@@ -20,9 +20,9 @@ Ich werde mir noch mals Zeit nehmen für das Sql Modul und danach schaue ich ob 
 
 ## 30.4.2024
 [ ] Aufgaben nachholen die ich am Mittwoch im Modul nicht machen konnte.
-[ ] Mein ersten Html code schreiben, Titel und text den ich dazu möchte.
-[ ] Mit Css die schrift art, farbe, grösse, hintergrund farbe ändern usw.
-[ ] Weitern Code schreiben, link zu einer Webseite erstellen und rein Lesen wie das geht.
+[ ] Mein ersten Html code schreiben, für eine Webseite von einem Coiffeur
+[ ] Mit Css die schrift art, farbe, grösse, hintergrund farbe ändern,
+[ ] Weitern Code schreiben, link zu einer Webseite erstellen um sich zu registrien wann man haare schneiden will.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
