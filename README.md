@@ -16,9 +16,9 @@ Was wäre ein geeignetes Projekt für diese LP5?
 Ich werde mir noch mals Zeit nehmen für das Sql Modul und danach schaue ich ob ich eine Webseite programmiere oder etwas mit C# mache. Eine IDee wäre eine Aufgabe liste. In dieser kann ich diese hinzufügen, löschen, Prioritäten machen, mit C#. 
 
 23.4.2024
-✍️ Heute habe ich... (50-100 Wörter)
+Heute Nachmittag habe ich geschaut was für ein Projekt ich machen will, ich werde ein HTML Projekt machen bei diesem werde ich eine Webseite erstellen wo man sich eintragen kann für einen Termin beim Coiffeur und Informationen zu diesem bekommen kann. Ausserdem habe ich noch mein Portfolio für das Modul 106 geschrieben. (52 Wörter)
 
-## 30.4.2024
+## 17.5.2024
 - [ ] Aufgaben nachholen die ich am Mittwoch im Modul nicht machen konnte.
 - [ ] Mein ersten Html code schreiben, für eine Webseite von einem Coiffeur
 - [ ] Mit Css die schrift art, farbe, grösse, hintergrund farbe ändern,
