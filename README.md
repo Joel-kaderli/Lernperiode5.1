@@ -19,11 +19,17 @@ Ich werde mir noch mals Zeit nehmen für das Sql Modul und danach schaue ich ob 
 Heute Nachmittag habe ich geschaut was für ein Projekt ich machen will, ich werde ein HTML Projekt machen bei diesem werde ich eine Webseite erstellen wo man sich eintragen kann für einen Termin beim Coiffeur und Informationen zu diesem bekommen kann. Ausserdem habe ich noch mein Portfolio für das Modul 106 geschrieben. (52 Wörter)
 
 ## 17.5.2024
-- [ ] Aufgaben nachholen die ich am Mittwoch im Modul nicht machen konnte.
-- [ ] Mein ersten Html code schreiben, für eine Webseite von einem Coiffeur
-- [ ] Mit Css die schrift art, farbe, grösse, hintergrund farbe ändern,
+- [x] Aufgaben nachholen die ich am Mittwoch im Modul nicht machen konnte.
+- [x] Mein ersten Html code schreiben, für eine Webseite von einem Coiffeur
+- [x] Mit Css die schrift art, farbe, grösse, hintergrund farbe ändern,
 - [ ] Weitern Code schreiben, link zu einer Webseite erstellen um sich zu registrien wann man haare schneiden will.
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute Nachmittag habe ich zuerst an einem Auftrag im Modul 293 gearbeitet und gemerkt, dass ich das gleich mit dem weiten Programmieren könnte. Und ich habe dann angefangen, ein wenig Style zum HTML-Code zu machen. Und ich habe mich an forms versucht und kennengelernt. Dass ich das dann in meine Webseite einbauen kann, um Termine machen zu lassen. (61 Wörter)
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+##Arbeitspakte 24.05.2024
+
+-[ ] Aufträge von Modulen nachholen. (Powershell, HTML)
+-[ ]Aufträge von Modulen nachholen. (Powershell, HTML)
+-[ ]Forms weiter machen in der Webseite ein Bauen, sodass man sich einen Termin machen kann.
+-[ ]Forms weiter machen in der Webseite ein Bauen, sodass man sich einen Termin machen kann (Namen, Datum, E-Mail-Adresse usw.)
+
