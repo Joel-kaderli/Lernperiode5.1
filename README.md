@@ -28,8 +28,15 @@ Heute Nachmittag habe ich zuerst an einem Auftrag im Modul 293 gearbeitet und ge
 
 ##Arbeitspakte 24.05.2024
 
-- [ ] Aufträge von Modulen nachholen. (Powershell, HTML)
-- [ ] Aufträge von Modulen nachholen. (Powershell, HTML)
+- [x] Aufträge von Modulen nachholen. (Powershell, HTML)
+- [x] Aufträge von Modulen nachholen. (Powershell, HTML)
 - [ ] Forms weiter machen in der Webseite ein Bauen, sodass man sich einen Termin machen kann.
 - [ ] Forms weiter machen in der Webseite ein Bauen, sodass man sich einen Termin machen kann (Namen, Datum, E-Mail-Adresse usw.)
 
+Heute Nachmittag habe ich zuerst an Aufträgen für das PowerShell Modul und danach noch für das HTML-Modul gemacht. Diese ging aber länger, als ich dachte. Bei meinem HTML-Projekt machte ich nur kurz weiter, da ich für die Modul länger brauchte, als ich dachte. Ich experimentiere noch ein wenig mit forms herum.(53 Wörter)
+
+## Arbeitspakte 31.05.2024
+- [ ] Aufträge für das Modul 293 Grafiken
+- [ ] Für den Kurztest im Modul 293 die bis herigen Sachen repetieren
+- [ ] Aufträge für das powershell modul nachholen
+- [ ]  Forms weiter machen in der Webseite ein Bauen, sodass man sich einen Termin machen kann.
