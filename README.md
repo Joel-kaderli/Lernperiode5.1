@@ -40,3 +40,13 @@ Heute Nachmittag habe ich zuerst an Aufträgen für das PowerShell Modul und dan
 - [ ] Für den Kurztest im Modul 293 die bis herigen Sachen repetieren
 - [ ] Aufträge für das powershell modul nachholen
 - [ ]  Forms weiter machen in der Webseite ein Bauen, sodass man sich einen Termin machen kann.
+
+
+Diese Woch im Distanz Unterricht im Lernattelier habe ich an meinen Modul Aufträgen gearbeitet und hatte daher keine Zeit mehr für mein Html Projekt. Ich habe für das Poweshell Modul und für das Html Aufträge gemacht, im Html Modul ging es um rechtliche und administrative Sachen und leider nicht um Webseiten Bauchen(50 Wörter)
+
+## 07.06.2024
+-	[ ]  Forms weiter machen in der Webseite ein Bauen, sodass man sich einen Termin machen kann.
+-	[ ]  Desingn machen das die Webseite anständig aufgebaut wird
+-	[ ]  Infos überdie Webseite machen usw.
+-	[ ]  Aufträge für die Module machen
+
