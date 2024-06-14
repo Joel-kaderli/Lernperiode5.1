@@ -56,5 +56,13 @@ Heute Nachmittag im Lernatelier habe ich nur an meinem HTML-Projekt weiter gearb
 - [ ] Arbeit für mein Modul 122 PowerShell-Projekt-Dateien verschieben, das Skript schreiben. 
 - [ ] Farben bestimmen, Design machen für das HTML-Projekt ansprechende Webseite.
 - [ ] Farben bestimmen, Design machen für das HTML-Projekt ansprechende Webseite.
-- [ ] Html-Projekt für das Modul 293, mit der Planung der Webseite beginnen, ein Mockup gestalten. 
+- [ ] Html-Projekt für das Modul 293, mit der Planung der Webseite beginnen, ein Mockup gestalten.
+Heute Nachmittag im Lernatelier habe ich an meinem HTML Projekt weiter gearbeitet und das Design der Webseite gemacht und ich finde langsam sieht sie immer besser aus und dann wollte ich es versuchen meine Webseite zu veröffentlichen aber beim Veröffentlichen gab es immer einen Fehler, das der Link nicht existiert. (50 Wörter)
+
+## Arbeitspakete 21.06.24
+
+- [ ]Webseite veröffentliche zum Erstenmal 
+- [ ]Dokumentiern für das Modul 293
+- [ ]Powershell skript weiter schreiben vom Modul 122 für die LB
+- [ ]Powershell skript weiter schreiben vom Modul 122 für die LB
 
