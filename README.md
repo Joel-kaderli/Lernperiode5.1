@@ -16,6 +16,8 @@ Was wäre ein geeignetes Projekt für diese LP5?
 Ich werde mir noch mals Zeit nehmen für das Sql Modul und danach schaue ich ob ich eine Webseite programmiere oder etwas mit C# mache. Eine IDee wäre eine Aufgabe liste. In dieser kann ich diese hinzufügen, löschen, Prioritäten machen, mit C#. 
 ## Fertiges Projekt 
 
+Auf meiner Webseite kann man sich eintragen um sich einen Coiffeur Termin machen und das geht ganz einfach in dem man die Felder ausfüllt und dann geht eine E-Mail an mich und ich sehe dann wann sie einen Termin bei mir wollen wie sie heissen usw. Und dann habe ich meine Webseite noch speziell auf das Handyformat angepasst so das man auch auf dem Handy ein schönes design hat. Zudem habe ich versucht ein schönes Menü band zu mache was aber nicht perfekt geklappt hat vor allem auf der Desktop Version sieht es nicht all zu schön aus. Aber dafür sieht es auf dem Handy viel besser aus.
+
 ![image](https://github.com/Joel-kaderli/Lernperiode5.1/assets/142605851/3dffb6d6-cb5f-486c-b000-5de6f969cebb)
 ![image](https://github.com/Joel-kaderli/Lernperiode5.1/assets/142605851/9cd93e13-51b8-46bc-b5ad-db4187049c35)
 https://github.com/Joel-kaderli/Lernperiode5.1/assets/142605851/07a9ebc6-e4ee-4ada-b939-d4c2d6178be1
