@@ -69,6 +69,6 @@ Heute Nachmittag im Lernatelier habe ich an meinem HTML Projekt weiter gearbeite
 Heute Nachmittag habe ich im Lernatelier die OBA's für die Module 293 und 122 geschrieben und bin auch fertig geworden damit. Danach hatte ich noch wenig Zeit an meinem Projekt weiter zuarbeiten und bin fast fertig geworden; das nächste Mal werde ich die Webseiter veröffentlichen.
 
 ## Arbeitspakte 29.06.2024
--[]Den letzten Feinschliff machen am CSS code und code validiren 
--[] Die Veröffentlichung der HTML und CSS-Seiten auf Netlify
+- [ ] Den letzten Feinschliff machen am CSS code und code validiren 
+- [ ] Die Veröffentlichung der HTML und CSS-Seiten auf Netlify
 
