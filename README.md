@@ -14,6 +14,14 @@ Das ich das Programmieren üben soll.
 Was wäre ein geeignetes Projekt für diese LP5?
 
 Ich werde mir noch mals Zeit nehmen für das Sql Modul und danach schaue ich ob ich eine Webseite programmiere oder etwas mit C# mache. Eine IDee wäre eine Aufgabe liste. In dieser kann ich diese hinzufügen, löschen, Prioritäten machen, mit C#. 
+## Fertiges Projekt 
+
+![image](https://github.com/Joel-kaderli/Lernperiode5.1/assets/142605851/3dffb6d6-cb5f-486c-b000-5de6f969cebb)
+![image](https://github.com/Joel-kaderli/Lernperiode5.1/assets/142605851/9cd93e13-51b8-46bc-b5ad-db4187049c35)
+https://github.com/Joel-kaderli/Lernperiode5.1/assets/142605851/07a9ebc6-e4ee-4ada-b939-d4c2d6178be1
+
+
+
 
 23.4.2024
 Heute Nachmittag habe ich geschaut was für ein Projekt ich machen will, ich werde ein HTML Projekt machen bei diesem werde ich eine Webseite erstellen wo man sich eintragen kann für einen Termin beim Coiffeur und Informationen zu diesem bekommen kann. Ausserdem habe ich noch mein Portfolio für das Modul 106 geschrieben. (52 Wörter)
